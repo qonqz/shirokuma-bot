@@ -4,6 +4,7 @@ const responseObject = {
     "สวัสดี": "Yo, สวัสดี!",
     "wat": "Say what?",
     "lol": "roflmaotntpmp",
+    "บาย": "จ่ะ! บายจ่ะ",
     "ไอ้อ้วน": "ไหน! ใครอ้วน! อ๊า!"
   };
 
